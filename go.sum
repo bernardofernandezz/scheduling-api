@@ -1,0 +1,6 @@
+# This is a placeholder go.sum file
+# The actual dependencies will be populated when running:
+# go mod download
+# or
+# go mod tidy
+
